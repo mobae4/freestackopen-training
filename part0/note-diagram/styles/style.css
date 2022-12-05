@@ -1,4 +1,13 @@
+body {
+    margin: 0 auto;
+}
+
 h1 {
     text-align: center;
     color: red;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px 0;
 }
